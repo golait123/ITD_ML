@@ -1,5 +1,5 @@
 from auth import login_prompt
-from threat_detection import load_model, generate_sample_events, analyze_events
+from threat_Detection import (load_model, generate_sample_events, analyze_events)
 
 
 def main():
@@ -19,7 +19,7 @@ def main():
     events = generate_sample_events()
 
     print("\nAnalyzing events for suspicious activity...\n")
-    analyze_events(model, events, employee)
+    analyze_events(events, employee)
 
     print("Threat detection analysis complete.")
 

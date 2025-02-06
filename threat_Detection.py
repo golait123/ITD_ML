@@ -28,3 +28,15 @@ def login_prompt():
     else:
         print("\nAuthentication failed. Please check your credentials.\n")
         return None
+
+
+def load_model():
+    return None
+
+
+def generate_sample_events():
+    return None
+
+
+def analyze_events():
+    return None
