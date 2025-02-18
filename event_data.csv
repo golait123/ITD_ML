@@ -1,0 +1,307 @@
+event_id,description,label
+1,Multiple failed login attempts.,1
+2,Antivirus disabled by user.,1
+3,User logged out.,0
+4,Privilege escalation attempt detected.,1
+5,Admin credentials used from new device.,1
+6,Access granted to confidential folder.,1
+7,Routine data backup completed.,0
+8,User logged in successfully.,0
+9,Routine data backup completed.,0
+10,No suspicious activity detected.,0
+11,User logged in successfully.,0
+12,Initiated data exfiltration process.,1
+13,Multiple failed login attempts.,1
+14,Security patch applied.,0
+15,Attempted unauthorized access to secure file.,1
+16,No suspicious activity detected.,0
+17,User logged out.,0
+18,Firewall settings modified.,1
+19,User logged out.,0
+20,Routine data backup completed.,0
+21,Security patch applied.,0
+22,Multiple failed login attempts.,1
+23,User logged in successfully.,0
+24,Admin credentials used from new device.,1
+25,File downloaded from unknown source.,1
+26,Admin credentials used from new device.,1
+27,Attempted unauthorized access to secure file.,1
+28,Admin credentials used from new device.,1
+29,Antivirus disabled by user.,1
+30,System update installed.,0
+31,Security patch applied.,0
+32,Privilege escalation attempt detected.,1
+33,Routine data backup completed.,0
+34,Malware installation attempt reported.,1
+35,Admin credentials used from new device.,1
+36,Firewall settings modified.,1
+37,Malware installation attempt reported.,1
+38,Admin credentials used from new device.,1
+39,User logged in successfully.,0
+40,No suspicious activity detected.,0
+41,Privilege escalation attempt detected.,1
+42,Access granted to confidential folder.,1
+43,Routine data backup completed.,0
+44,Access granted to confidential folder.,1
+45,Firewall settings modified.,1
+46,Unusual network traffic detected.,1
+47,Malware installation attempt reported.,1
+48,Malware installation attempt reported.,1
+49,User logged in successfully.,0
+50,Privilege escalation attempt detected.,1
+51,Security patch applied.,0
+52,Antivirus disabled by user.,1
+53,System update installed.,0
+54,Malware installation attempt reported.,1
+55,USB device connected to the system.,0
+56,Unusual network traffic detected.,1
+57,Routine data backup completed.,0
+58,Antivirus disabled by user.,1
+59,User logged out.,0
+60,Antivirus disabled by user.,1
+61,Access granted to confidential folder.,1
+62,System update installed.,0
+63,No suspicious activity detected.,0
+64,USB device connected to the system.,0
+65,Antivirus disabled by user.,1
+66,Admin credentials used from new device.,1
+67,Admin credentials used from new device.,1
+68,Routine data backup completed.,0
+69,Unusual network traffic detected.,1
+70,Unusual network traffic detected.,1
+71,File downloaded from unknown source.,1
+72,No suspicious activity detected.,0
+73,Multiple failed login attempts.,1
+74,Security patch applied.,0
+75,USB device connected to the system.,0
+76,Firewall settings modified.,1
+77,Initiated data exfiltration process.,1
+78,Security patch applied.,0
+79,Access granted to confidential folder.,1
+80,File downloaded from unknown source.,1
+81,Unusual network traffic detected.,1
+82,Unusual network traffic detected.,1
+83,File downloaded from unknown source.,1
+84,Firewall settings modified.,1
+85,Initiated data exfiltration process.,1
+86,Security patch applied.,0
+87,Unusual network traffic detected.,1
+88,Firewall settings modified.,1
+89,System update installed.,0
+90,Antivirus disabled by user.,1
+91,Attempted unauthorized access to secure file.,1
+92,Multiple failed login attempts.,1
+93,User logged in successfully.,0
+94,User logged out.,0
+95,System update installed.,0
+96,Access granted to confidential folder.,1
+97,Security patch applied.,0
+98,No suspicious activity detected.,0
+99,Unusual network traffic detected.,1
+100,File downloaded from unknown source.,1
+101,Security patch applied.,0
+102,System update installed.,0
+103,No suspicious activity detected.,0
+104,Antivirus disabled by user.,1
+105,Attempted unauthorized access to secure file.,1
+106,Initiated data exfiltration process.,1
+107,Multiple failed login attempts.,1
+108,Firewall settings modified.,1
+109,Access granted to confidential folder.,1
+110,Initiated data exfiltration process.,1
+111,Firewall settings modified.,1
+112,File downloaded from unknown source.,1
+113,Antivirus disabled by user.,1
+114,Malware installation attempt reported.,1
+115,Firewall settings modified.,1
+116,USB device connected to the system.,0
+117,Malware installation attempt reported.,1
+118,User logged in successfully.,0
+119,Firewall settings modified.,1
+120,Multiple failed login attempts.,1
+121,Multiple failed login attempts.,1
+122,Access granted to confidential folder.,1
+123,File downloaded from unknown source.,1
+124,Privilege escalation attempt detected.,1
+125,Antivirus disabled by user.,1
+126,Multiple failed login attempts.,1
+127,No suspicious activity detected.,0
+128,Security patch applied.,0
+129,User logged out.,0
+130,User logged in successfully.,0
+131,Antivirus disabled by user.,1
+132,System update installed.,0
+133,Antivirus disabled by user.,1
+134,User logged in successfully.,0
+135,Routine data backup completed.,0
+136,Malware installation attempt reported.,1
+137,System update installed.,0
+138,File downloaded from unknown source.,1
+139,Privilege escalation attempt detected.,1
+140,Routine data backup completed.,0
+141,Initiated data exfiltration process.,1
+142,Admin credentials used from new device.,1
+143,User logged out.,0
+144,Admin credentials used from new device.,1
+145,User logged in successfully.,0
+146,Attempted unauthorized access to secure file.,1
+147,Attempted unauthorized access to secure file.,1
+148,File downloaded from unknown source.,1
+149,Malware installation attempt reported.,1
+150,Attempted unauthorized access to secure file.,1
+151,Access granted to confidential folder.,1
+152,Initiated data exfiltration process.,1
+153,User logged out.,0
+154,File downloaded from unknown source.,1
+155,No suspicious activity detected.,0
+156,Firewall settings modified.,1
+157,System update installed.,0
+158,Unusual network traffic detected.,1
+159,User logged in successfully.,0
+160,Admin credentials used from new device.,1
+161,File downloaded from unknown source.,1
+162,Antivirus disabled by user.,1
+163,User logged out.,0
+164,Initiated data exfiltration process.,1
+165,USB device connected to the system.,0
+166,User logged out.,0
+167,Admin credentials used from new device.,1
+168,Routine data backup completed.,0
+169,System update installed.,0
+170,Attempted unauthorized access to secure file.,1
+171,USB device connected to the system.,0
+172,Routine data backup completed.,0
+173,Routine data backup completed.,0
+174,No suspicious activity detected.,0
+175,System update installed.,0
+176,File downloaded from unknown source.,1
+177,Access granted to confidential folder.,1
+178,No suspicious activity detected.,0
+179,Initiated data exfiltration process.,1
+180,Antivirus disabled by user.,1
+181,Firewall settings modified.,1
+182,User logged in successfully.,0
+183,Antivirus disabled by user.,1
+184,File downloaded from unknown source.,1
+185,Unusual network traffic detected.,1
+186,Initiated data exfiltration process.,1
+187,System update installed.,0
+188,Unusual network traffic detected.,1
+189,Firewall settings modified.,1
+190,Unusual network traffic detected.,1
+191,Routine data backup completed.,0
+192,Routine data backup completed.,0
+193,No suspicious activity detected.,0
+194,Access granted to confidential folder.,1
+195,Initiated data exfiltration process.,1
+196,Access granted to confidential folder.,1
+197,No suspicious activity detected.,0
+198,Antivirus disabled by user.,1
+199,File downloaded from unknown source.,1
+200,System update installed.,0
+E:\Kali Linux Image\Debian 6 64-bit.vmdk,removed,2025-02-07 15:39:29
+E:\System Volume Information\WPSettings.dat,removed,2025-02-07 15:41:00
+E:\VLC\vlc.exe,removed,2025-02-07 15:45:23
+E:\Kali Linux Image\Debian 6 64-bit.vmx~,inserted,2025-02-07 15:50:06
+E:\Kali Linux Image\Debian 6 64-bit.vmx,removed,2025-02-07 15:50:06
+E:\Kali Linux Image\Debian 6 64-bit.vmdk.lck\M28459.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmdk.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\M38536.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D38536.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\E38536.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D38536.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\M38536.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\564d12be-a49c-7e9c-c8a7-ec97925b018b.vmem,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\564d12be-a49c-7e9c-c8a7-ec97925b018b.vmem.lck\M28631.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\564d12be-a49c-7e9c-c8a7-ec97925b018b.vmem.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmx~,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmx,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D41958.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\E41958.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D41958.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\E41958.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D41958.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\M41958.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D06331.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\E06331.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D06331.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\E06331.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D06331.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\M06331.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D01319.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\E01319.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D01319.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\E01319.lck,inserted,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\D01319.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck\M01319.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmsd.lck,removed,2025-02-07 15:50:07
+E:\Kali Linux Image\Debian 6 64-bit.vmx.lck\M17468.lck,removed,2025-02-07 15:50:08
+E:\Kali Linux Image\Debian 6 64-bit.vmx.lck,removed,2025-02-07 15:50:08
+E:\System Volume Information\WPSettings.dat,removed,2025-02-07 22:16:57
+"
+instance of Win32_VolumeChangeEvent
+{
+	DriveName = ""D:"";
+	EventType = 2;
+	TIME_CREATED = ""133834210081017307"";
+};
+",inserted,2025-02-07 22:26:48,Drive: D:
+"
+instance of Win32_VolumeChangeEvent
+{
+	DriveName = ""D:"";
+	EventType = 3;
+	TIME_CREATED = ""133834210305892018"";
+};
+",removed,2025-02-07 22:27:10,Drive: D:
+"
+instance of Win32_VolumeChangeEvent
+{
+	DriveName = ""D:"";
+	EventType = 2;
+	TIME_CREATED = ""133834210419011666"";
+};
+",inserted,2025-02-07 22:27:21,Drive: D:
+D:,removed,2025-02-07 22:30:11,Drive: D:
+D:,inserted,2025-02-07 22:30:16,Drive: D:
+D:,removed,2025-02-07 22:30:19,Drive: D:
+D:,inserted,2025-02-07 22:30:24,Drive: D:
+D:,removed,2025-02-07 22:30:28,Drive: D:
+D:,inserted,2025-02-07 22:30:32,Drive: D:
+D:,removed,2025-02-07 22:30:36,Drive: D:
+D:,inserted,2025-02-07 22:30:40,Drive: D:
+D:,inserted,2025-02-07 22:34:30,Drive: D:
+D:,removed,2025-02-07 22:34:32,Drive: D:
+D:,inserted,2025-02-07 22:34:38,Drive: D:
+D:,removed,2025-02-07 22:34:42,Drive: D:
+D:,inserted,2025-02-07 22:34:48,Drive: D:
+D:,inserted,2025-02-07 22:37:18,Drive: D:
+D:,removed,2025-02-07 22:37:27,Drive: D:
+D:,inserted,2025-02-07 22:37:35,Drive: D:
+D:,removed,2025-02-07 22:37:45,Drive: D:
+D:,inserted,2025-02-07 22:37:50,Drive: D:
+D:,removed,2025-02-07 23:02:47,Drive: D:
+D:,inserted,2025-02-07 23:02:51,Drive: D:
+D:,removed,2025-02-07 23:09:00,Drive: D:
+D:,inserted,2025-02-07 23:09:04,Drive: D:
+D:,removed,2025-02-07 23:14:46,Drive: D:
+D:,inserted,2025-02-07 23:14:49,Drive: D:
+D:,removed,2025-02-07 23:14:51,Drive: D:
+D:,removed,2025-02-07 23:17:11,Drive: D:
+D:,inserted,2025-02-07 23:17:15,Drive: D:
+D:,inserted,2025-02-07 23:18:45,Drive: D:
+D:,removed,2025-02-07 23:26:32,Drive: D:
+D:,inserted,2025-02-07 23:26:38,Drive: D:
+D:,removed,2025-02-07 23:26:41,Drive: D:
+D:,removed,2025-02-07 23:55:18,Drive: D:
+D:,inserted,2025-02-07 23:55:22,Drive: D:
+D:,removed,2025-02-07 23:55:23,Drive: D:
+D:,removed,2025-02-08 00:02:08,Drive: D:
+D:,inserted,2025-02-08 00:02:14,Drive: D:

@@ -1,0 +1,6 @@
+device,event_count,timestamp,alert_message
+D:,3,2025-02-07 22:30:19,THREAT ALERT: Device [D:] has generated 3 events. Security alerted.
+D:,2,2025-02-07 22:34:32,SECURITY ALERT: Device [D:] has generated 2 events.
+D:,4,2025-02-07 22:34:42,SECURITY ALERT: Device [D:] has generated 4 events.
+D:,2,2025-02-07 22:37:35,FLAG: Device [D:] has been inserted 2 times.
+D:,4,2025-02-07 23:02:51,FLAG: Device [D:] has been inserted 4 times.
